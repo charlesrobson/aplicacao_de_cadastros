@@ -5,5 +5,7 @@ Aplicação bastante simples, desencolvida como componente complementar do curso
 A aplicação de cadastros foi desenvolvida em Java Web, com uso de:
 
 Servlet;
+
 Integração com banco de dados;
+
 JSP.
